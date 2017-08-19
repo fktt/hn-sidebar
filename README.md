@@ -1,10 +1,11 @@
-#Hacker News Sidebar for Chrome
+#Hacker News Sidebar++ for Chrome
 
 *Displays the Hacker News comment thread that corresponds to the page you are currently viewing in a sidebar, if it was submitted to Hacker News.*
 
-You can [install this Chrome extension from the Chrome Store](https://chrome.google.com/webstore/detail/hacker-news-sidebar/ngljhffenbmdjobakjplnlbfkeabbpma).
+You can [install this Chrome extension from the Chrome Store](https://chrome.google.com/webstore/detail/hacker-news-sidebar%2B%2B/lhaapeacjhibkidjlohijakoflalfhdf).
 
-If you'd like to run your own fork of it, clone this repository and [load its directory as an unpacked extension](https://developer.chrome.com/extensions/getstarted.html#unpacked).  A lengthy introduction to the code is available [on my blog](http://tedpak.com/2013/03/20/hacker-news-sidebar-a-chrome-extension).
+If you'd like to run your own fork of it, clone this repository and [load its directory as an unpacked extension](https://developer.chrome.com/extensions/getstarted.html#unpacked).
+<img src="https://github.com/fktt/hn-sidebar-updated/blob/master/screenshot-lg.png?raw=true" width=640/>
 
 <img src="https://raw.github.com/powerpak/hn-sidebar/master/screenshot-lg.png" width=640/>
 

@@ -1,14 +1,13 @@
 {
     "manifest_version": 2,
     "name": "Hacker News Sidebar++",
-    "version": "1.0.21",
+    "version": "1.0.22",
     "description": "See a tab with a Hacker news disussion for every page ever discussed on Hacker News.",
 
     "icons": {
         "48": "icon-48.png",
         "128": "icon-128.png"
     },
-    "default_locale": "en",
 
     "background": {
         "scripts": ["xhr_handler.js"]
